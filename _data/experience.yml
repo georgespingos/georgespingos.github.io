@@ -20,3 +20,20 @@
 
     Senior technical interviewer for all recruitment efforts related with a focus on senior hiring, and future capacity and growth planning.
 
+- layout: left
+  company: Intralot SA
+  link: https://www.intralot.com/
+  job_title: Software Engineering Manager
+  dates: Jan 2014 – May 2018
+  quote: >
+   INTRALOT, a public listed company, is a leading gaming solutions supplier and operator active in 44 regulated jurisdictions round the world.
+  description: | # this will include new lines to allow paragraphs
+    Engineering manager leading multiple cross-functional teams developing existing and next generation products. Managed diverse teams with wide experience in leading remote teams and outsourced engineers across time zones and cultures.
+
+    Extensive recruitment experience scaling teams and forming new teams, having a key role in redesigning the entire hiring processes for all levels in the hiring ladder.
+
+    A technical mentor that regularly delivered best practices workshops and presentations on a variety of architectural topics and engineering management processes for the entire organization.
+
+    Introduced and established DevOps processes for the entire product development group and paved the way for DevSecOps.
+
+    Additionally, served as technical authority, subject matter expert and point of escalation on complex architectural and development issues as well as production incidents.
