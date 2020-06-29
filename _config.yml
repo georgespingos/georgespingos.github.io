@@ -41,7 +41,7 @@ more_content: | # this will include new lines to allow paragraphs
   | Recruitment/Hiring              | Data Streaming            |
   | IT Strategy                     | Distributed System Design |
   | Product Management              | Microservices             |
-  | Outsourcing Management          | Observability             |
+  | Outsourcing Management          | **Observability**         |
 
 
 # Footer
