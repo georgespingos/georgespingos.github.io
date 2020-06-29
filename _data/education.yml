@@ -1,4 +1,9 @@
 - layout: top-middle
   name: University of South Wales (University of Glamorgan), UK
   dates: 2000 - 2003
-  qualification: BSc (Hons) Software Engineering  
+  qualification: BSc (Hons) Software Engineering
+
+- layout: top-middle
+  name: University of South Wales (University of Glamorgan), UK
+  dates: 2003 - 2004
+  qualification: Post Graduate Diploma Computer Networks Security
