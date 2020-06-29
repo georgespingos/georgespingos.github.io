@@ -36,13 +36,13 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-| Software Architecture           | DevOps                    |
-|---------------------------------|---------------------------|
-| Software Engineering Management | Containers                |
-| Recruitment/Hiring              | Data Streaming            |
-| IT Strategy                     | Distributed System Design |
-| Product Management              | Microservices             |
-| Outsourcing Management          | Observability             |
+  | Software Architecture           | DevOps                    |
+  |---------------------------------|---------------------------|
+  | Software Engineering Management | Containers                |
+  | Recruitment/Hiring              | Data Streaming            |
+  | IT Strategy                     | Distributed System Design |
+  | Product Management              | Microservices             |
+  | Outsourcing Management          | Observability             |
 
 
 # Footer
