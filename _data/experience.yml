@@ -37,3 +37,20 @@
     Introduced and established DevOps processes for the entire product development group and paved the way for DevSecOps.
 
     Additionally, served as technical authority, subject matter expert and point of escalation on complex architectural and development issues as well as production incidents.
+
+- layout: left
+  company: National Bank of Greece
+  link: https://www.nbg.gr/en/the-group/the-bank
+  jobs:
+    - title: Senior Software Engineer
+      dates: Oct 2011 - Dec 2013
+    - title: Software Engineer
+      dates: Nov 2006 – Oct 2011
+  quote: >
+   National Bank of Greece was established in 1841 and was the first bank to be set up in the Modern Greek State, going on to play a key role in the economy of Greece throughout its 179-year history. Today NBG heads one of the largest financial groups in Greece.
+  description: | # this will include new lines to allow paragraphs
+    Extensive experience in the field of bank mergers and acquisitions having managed, designed, and implemented complex integration processes.
+
+    Designed and developed a variety of core banking back end processes (cheque clearing workflows, bank branches categorization algorithms, corporate identity verification documents management system), gaining unique domain knowledge of the finance sector.
+
+    Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
