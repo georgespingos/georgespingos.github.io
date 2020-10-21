@@ -32,13 +32,7 @@ experience_title: Work Experience
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  | Software Architecture| DevOps |
-  | Software Engineering Management | Containers |
-  | Recruitment/Hiring | Data Streaming |
-  | IT Strategy | Distributed System Design |
-  | Product Management | Microservices |
-  | Outsourcing Management | Observability |
-   <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/xggi57qdsghn" data-wordart-show-attribution></div>
+  <div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/xggi57qdsghn" data-wordart-show-attribution></div>
 
 # Education Section
 educaton_title: Education
