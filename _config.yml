@@ -32,7 +32,7 @@ experience_title: Work Experience
 # More Section
 more_title: Skills
 more_content: | # this will include new lines to allow paragraphs
-  | Software Architecture | DevOps |
+  | <mark> ### Software Architecture </mark>| DevOps |
   | Software Engineering Management | Containers |
   | Recruitment/Hiring | Data Streaming |
   | IT Strategy | Distributed System Design |
