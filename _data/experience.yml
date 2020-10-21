@@ -6,19 +6,21 @@
   quote: >
    GVC Holdings PLC (LSE:GVC) is one of the world’s largest sports betting and gaming groups. 
   description: | # this will include new lines to allow paragraphs
-    Architecture and design authority for designing and evolving microservices based products: a distributed, highly available, large transaction volume product.
+    Architecture and design authority for designing and evolving microservices based product in the sports betting industry.
 
-    Senior member of the architects’ team responsible for researching and evaluation of new technologies and architectural principles, providing design and best practices guidelines.
+    Senior member of the architects’ team responsible for defining the architectural roadmap, owning the intellectual process of researching and analyzing new technologies, capturing and synthesizing information, setting design and best practices guidelines.
 
-    Provide guidance and mentoring to technical leads, and engineering managers on how to build, empower and operate teams and software that continuously add value. 
+    Provide guidance and mentoring to technical leads and engineering managers on how to build, empower and operate teams and software that innovate and continuously add value. 
+
+    Senior technical interviewer for all recruitment efforts with a focus on senior hiring, capacity and growth planning.
+
+    Part of the engineering leadership team managing digital transformation initiatives focusing on cloud patterns, observability and data streaming governance. 
 
     Advisor to senior management on risks, product strategy, technology and delivery initiatives. Build and maintain strong relationships with all stakeholders and external vendors. 
 
-    Part of the engineering leadership managing digital transformation initiatives focusing on cloud patterns, observability and data streaming governance. 
+    Establish strategies around internal vs. external technology investments.
 
     Liaise closely with product owners and tech leads to ensure a close fit between business needs and technical solutions throughout the software development lifecycle.
-
-    Senior technical interviewer for all recruitment efforts related with a focus on senior hiring, and future capacity and growth planning.
 
 - layout: left
   company: Intralot SA
@@ -28,13 +30,17 @@
   quote: >
    INTRALOT, a public listed company, is a leading gaming solutions supplier and operator active in 44 regulated jurisdictions round the world.
   description: | # this will include new lines to allow paragraphs
-    Engineering manager leading multiple cross-functional teams developing existing and next generation products. Managed diverse teams with wide experience in leading remote teams and outsourced engineers across time zones and cultures.
+    Engineering manager leading multiple cross-functional teams responsible for developing the existing and next generation main product. Managed diverse teams with wide experience in leading remote teams and outsourced engineers across time zones and cultures (6 cross-functional teams with a total of ~40 direct reports).
 
-    Extensive recruitment experience scaling teams and forming new teams, having a key role in redesigning the entire hiring processes for all levels in the hiring ladder.
+    Extensive recruitment experience scaling teams and forming new teams, having a key role in redesigning the entire hiring processes for all levels in the hiring ladder. 
 
     A technical mentor that regularly delivered best practices workshops and presentations on a variety of architectural topics and engineering management processes for the entire organization.
 
-    Introduced and established DevOps processes for the entire product development group and paved the way for DevSecOps.
+    Evaluated the current technology landscape (technology stack, products, people, etc.) and created short and long-term technology strategic vision and plan for the teams.
+
+    Responsible for the technology organization’s scalable growth - architecture, development, infrastructure, people and processes.
+
+    Introduced and established DevOps culture in the entire product development group and paved the way for DevSecOps.
 
     Additionally, served as technical authority, subject matter expert and point of escalation on complex architectural and development issues as well as production incidents.
 
