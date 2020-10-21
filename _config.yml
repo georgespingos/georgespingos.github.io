@@ -26,10 +26,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent into high performance teams using agile development practices. Lead for recruitment efforts targeting senior technology roles.
 
-
 # Experience Section
 experience_title: Work Experience
-
 
 # More Section
 more_title: Skills
