@@ -4,7 +4,7 @@
   job_title: Senior Software Architect
   dates: Jun 2018 - Present
   quote: >
-   GVC Holdings PLC (LSE:GVC) is one of the world’s largest sports betting and gaming groups. 
+  
   description: | # this will include new lines to allow paragraphs
     Architecture and design authority for designing and evolving microservices based product in the sports betting industry.
 
@@ -28,7 +28,7 @@
   job_title: Software Engineering Manager
   dates: Jan 2014 – May 2018
   quote: >
-   INTRALOT, a public listed company, is a leading gaming solutions supplier and operator active in 44 regulated jurisdictions round the world.
+  
   description: | # this will include new lines to allow paragraphs
     Engineering manager leading multiple cross-functional teams responsible for developing the existing and next generation main product. Managed diverse teams with wide experience in leading remote teams and outsourced engineers across time zones and cultures (6 cross-functional teams with a total of ~40 direct reports).
 
@@ -53,7 +53,7 @@
     - title: Software Engineer
       dates: Nov 2006 – Oct 2011
   quote: >
-   National Bank of Greece was established in 1841 and was the first bank to be set up in the Modern Greek State, going on to play a key role in the economy of Greece throughout its 179-year history. Today NBG heads one of the largest financial groups in Greece.
+   
   description: | # this will include new lines to allow paragraphs
     Extensive experience in the field of bank mergers and acquisitions having managed, designed, and implemented complex integration processes.
 
