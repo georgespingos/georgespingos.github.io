@@ -29,7 +29,9 @@ experience_title: Work Experience
 
 
 about_content: | # this will include new lines to allow paragraphs
-  Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent into high performance teams using agile development practices. Lead for recruitment efforts targeting senior technology roles.
+  Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent. Lead for recruitment efforts targeting senior technology roles.
+
+  My focus is on the technical side is distributed systems architecture and [scaling](https://observablehq.com/@gnsping/scaling-onboarding-quantitative-approach) and managing teams, [organization design](https://observablehq.com/@gnsping/scaling-onboarding-a-quantitative-approach-part-ii) and technical strategy.
 
 
 # More Section
