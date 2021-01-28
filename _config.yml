@@ -65,6 +65,7 @@ content:
 
           Establish strategies around internal vs. external technology investments. Introduced new processes, from inception to full adoptions, with targeted impact on delivery speed of the organization and reducing MMTR.
 
+          ---
       - layout: left
         title: Intralot SA
         link: https://www.intralot.com/
@@ -85,6 +86,8 @@ content:
 
           Additionally, served as technical authority, subject matter expert and point of escalation on complex architectural and development issues as well as production incidents.
 
+          ---
+
       - layout: left
         title: National Bank of Greece
         link: https://www.nbg.gr/en/the-group/the-bank
@@ -97,13 +100,21 @@ content:
 
           Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
 
+          ---
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      layout: left
-      title: BSc (Hons) Software Engineering
-      caption: 2000 - 2003
-      sub_title: University of South Wales (University of Glamorgan), UK
+      - layout: left
+        title: MSc Computer Networks Security
+        caption: 2003 - 2004
+        sub_title: University of South Wales (University of Glamorgan), UK    
+
+      - layout: left
+        title: BSc (Hons) Software Engineering
+        caption: 2000 - 2003
+        sub_title: University of South Wales (University of Glamorgan), UK
+      
 
 # Footer
 footer_show_references: true
