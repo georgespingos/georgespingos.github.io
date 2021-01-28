@@ -99,6 +99,17 @@ content:
           Designed and developed a variety of core banking back end processes (cheque clearing workflows, bank branches categorization algorithms, corporate identity verification documents management system), gaining unique domain knowledge of the finance sector.
 
           Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
+    
+      - layout: left
+        title: National Bank of Greece
+        link: https://www.nbg.gr/en/the-group/the-bank
+        sub_title: Software Engineer
+        caption: Nov 2006 – Oct 2011
+        description: | # this will include new lines to allow paragraphs
+          Implemented complex financial models for the National Bank of Greece: loan repayment projections, parallel transactions process, mortgage loans application scoring, which were used to develop custom software solutions for the finance sector.
+
+          Developed horizontally scalable solutions to support POS transactions in close collaboration with third party vendors.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -112,7 +123,6 @@ content:
         title: BSc (Hons) Software Engineering
         caption: 2000 - 2003
         sub_title: University of South Wales (University of Glamorgan), UK
-      
 
 # Footer
 footer_show_references: true
