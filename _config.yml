@@ -2,49 +2,128 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# Content configuration version
+version: 2
+
 # Personal info
 name: George N. Spingos
 title: Senior Software Architect
 email: george.spingos@gmail.com
 website: https://georgespingos.github.io./
 
+# Dark Mode (true/false/never)
+darkmode: false
+
 # Social links
-#twitter_username: facespics
-#github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: chillwildlife
+# github_username:  sproogen
 linkedin_username: george-spingos-631590113
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-
-# Experience Section
-experience_title: Work Experience
-
-
 about_content: | # this will include new lines to allow paragraphs
-  Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent. Lead for recruitment efforts targeting senior technology roles.
+   Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent. Lead for recruitment efforts targeting senior technology roles.
 
   My focus is on the technical side is distributed systems architecture, [scaling](https://observablehq.com/@gnsping/scaling-onboarding-quantitative-approach) and managing teams, [organization design](https://observablehq.com/@gnsping/scaling-onboarding-a-quantitative-approach-part-ii) and technical strategy.
+  
+  ---
 
+content:
+  - title: Work Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        company: GVC Group GmbH
+        link: https://entaingroup.com/
+        job_title: Senior Software Architect
+        dates: Jun 2018 - Present
+        description: | # this will include new lines to allow paragraphs
+          Architecture and design authority on technical product design in the sports betting industry with primary focus on scale, availabilit.
 
-# More Section
-more_title: Skills
-more_content: | # this will include new lines to allow paragraphs
-  ![](https://lh3.googleusercontent.com/pw/ACtC-3ewqkwbIEhIIfL8eEfOu6_owQgy5C2RhGxnFTwA-WiGsVugmsA1hNuqaJ8kGX40Sujd14tFMrG1-9Lq8ur4fcFb5fpfLNj8Qb39mB7KSdMnF-YFW5h4eJ92HWCOh1iZMmFzppEowtwWJTNCFn2RJKL8=w781-h190-no)
+          Senior member of the architects’ team responsible for defining the architectural roadmap, owning the process of researching and analyzing new technologies, capturing and synthesizing information, setting design and best practices guidelines for the entire engineering organization.
 
-# Education Section
-educaton_title: Education
+          Provide guidance and mentoring to technical leads and engineering managers on how to build, empower and operate teams and software that innovate and continuously add value. 
+
+          Senior interviewer for all recruitment efforts with a focus on senior hiring, capacity and growth planning.
+
+          Part of the engineering leadership team managing digital transformation initiatives focusing on cloud patterns, observability and data streaming governance and their applications on new products.
+
+          Advisor to senior management on risks, product strategy, technology and delivery initiatives.
+
+          Establish strategies around internal vs. external technology investments. Introduced new processes, from inception to full adoptions, with targeted impact on delivery speed of the organization and reducing MMTR.
+
+      - layout: left
+        company: Intralot SA
+        link: https://www.intralot.com/
+        job_title: Software Engineering Manager
+        dates: Jan 2014 – May 2018
+        description: | # this will include new lines to allow paragraphs
+          Engineering manager leading multiple cross-functional teams responsible for developing the existing and next generation main product. Managed diverse teams with wide experience in leading remote teams and outsourced engineers across time zones and cultures (6 cross-functional teams with a total of ~40 direct reports).
+
+          Extensive recruitment experience scaling teams and forming new teams, having a key role in redesigning the entire hiring processes for all levels in the hiring ladder. 
+
+          A technical mentor that regularly delivered best practices workshops and presentations on a variety of architectural topics and engineering management processes for the entire organization.
+
+          Evaluated the current technology landscape (technology stack, products, people, etc.) and created short and long-term technology strategic vision and plan for the teams.
+
+          Responsible for the technology organization’s scalable growth - architecture, development, infrastructure, people and processes.
+
+          Introduced and established DevOps culture in the entire product development group and paved the way for DevSecOps.
+
+          Additionally, served as technical authority, subject matter expert and point of escalation on complex architectural and development issues as well as production incidents.
+
+      - layout: left
+        company: National Bank of Greece
+        link: https://www.nbg.gr/en/the-group/the-bank
+        jobs:
+          - title: Senior Software Engineer
+            dates: Oct 2011 - Dec 2013
+          - title: Software Engineer
+            dates: Nov 2006 – Oct 2011
+            description: | # this will include new lines to allow paragraphs
+              Extensive experience in the field of bank mergers and acquisitions having managed, designed, and implemented complex integration processes.
+
+              Designed and developed a variety of core banking back end processes (cheque clearing workflows, bank branches categorization algorithms, corporate identity verification documents management system), gaining unique domain knowledge of the finance sector.
+
+              Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        name: BSc (Hons) Software Engineering
+        dates: 2000 - 2003
+        qualification: University of South Wales (University of Glamorgan), UK
+
+      - layout: top-middle
+        name: MSc Computer Networks Security
+        dates: 2003 - 2004
+        qualification: University of South Wales (University of Glamorgan), UK
+
+  - title: Section Name
+    layout: list (options: list, text)
+    content: | #
+      - layout: left 
 
 
 # Footer
 footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
