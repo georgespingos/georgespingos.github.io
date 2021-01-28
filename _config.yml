@@ -101,7 +101,7 @@ content:
           Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
 
   - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - layout: center
         title: MSc Computer Networks Security
