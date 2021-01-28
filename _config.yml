@@ -37,7 +37,7 @@ linkedin_username: george-spingos-631590113
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent. Lead for recruitment efforts targeting senior technology roles.
+  Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent. Lead for recruitment efforts targeting senior technology roles.
 
   My focus is on the technical side is distributed systems architecture, [scaling](https://observablehq.com/@gnsping/scaling-onboarding-quantitative-approach) and managing teams, [organization design](https://observablehq.com/@gnsping/scaling-onboarding-a-quantitative-approach-part-ii) and technical strategy.
   
@@ -115,15 +115,9 @@ content:
         dates: 2003 - 2004
         qualification: University of South Wales (University of Glamorgan), UK
 
-  - title: Section Name
-    layout: list (options: list, text)
-    content: | #
-      - layout: left 
-
-
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References on request  -  Copyright George Spingos 2021
 
 # Build settings
 remote_theme: sproogen/resume-theme
