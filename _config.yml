@@ -101,14 +101,14 @@ content:
           Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
 
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-      - layout: right
+      - layout: top-right
         title: MSc Computer Networks Security
         caption: 2003 - 2004
         sub_title: University of South Wales (University of Glamorgan), UK    
 
-      - layout: right
+      - layout: top-right
         title: BSc (Hons) Software Engineering
         caption: 2000 - 2003
         sub_title: University of South Wales (University of Glamorgan), UK
