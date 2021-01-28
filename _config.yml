@@ -103,12 +103,12 @@ content:
   - title: Education # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: right
         title: MSc Computer Networks Security
         caption: 2003 - 2004
         sub_title: University of South Wales (University of Glamorgan), UK    
 
-      - layout: center
+      - layout: right
         title: BSc (Hons) Software Engineering
         caption: 2000 - 2003
         sub_title: University of South Wales (University of Glamorgan), UK
