@@ -40,18 +40,16 @@ about_content: | # this will include new lines to allow paragraphs
   Senior manager with extensive experience in software engineering, system design and team management, recruiting and developing engineering talent. Lead for recruitment efforts targeting senior technology roles.
 
   My focus is on the technical side is distributed systems architecture, [scaling](https://observablehq.com/@gnsping/scaling-onboarding-quantitative-approach) and managing teams, [organization design](https://observablehq.com/@gnsping/scaling-onboarding-a-quantitative-approach-part-ii) and technical strategy.
-  
-  ---
 
 content:
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        company: GVC Group GmbH
+        title: GVC Group GmbH
+        sub_title: Senior Software Architect
         link: https://entaingroup.com/
-        job_title: Senior Software Architect
-        dates: Jun 2018 - Present
+        caption: Jun 2018 - Present
         description: | # this will include new lines to allow paragraphs
           Architecture and design authority on technical product design in the sports betting industry with primary focus on scale, availabilit.
 
@@ -68,10 +66,10 @@ content:
           Establish strategies around internal vs. external technology investments. Introduced new processes, from inception to full adoptions, with targeted impact on delivery speed of the organization and reducing MMTR.
 
       - layout: left
-        company: Intralot SA
+        title: Intralot SA
         link: https://www.intralot.com/
-        job_title: Software Engineering Manager
-        dates: Jan 2014 – May 2018
+        sub_title: Software Engineering Manager
+        caption: Jan 2014 – May 2018
         description: | # this will include new lines to allow paragraphs
           Engineering manager leading multiple cross-functional teams responsible for developing the existing and next generation main product. Managed diverse teams with wide experience in leading remote teams and outsourced engineers across time zones and cultures (6 cross-functional teams with a total of ~40 direct reports).
 
@@ -88,32 +86,24 @@ content:
           Additionally, served as technical authority, subject matter expert and point of escalation on complex architectural and development issues as well as production incidents.
 
       - layout: left
-        company: National Bank of Greece
+        title: National Bank of Greece
         link: https://www.nbg.gr/en/the-group/the-bank
-        jobs:
-          - title: Senior Software Engineer
-            dates: Oct 2011 - Dec 2013
-          - title: Software Engineer
-            dates: Nov 2006 – Oct 2011
-            description: | # this will include new lines to allow paragraphs
-              Extensive experience in the field of bank mergers and acquisitions having managed, designed, and implemented complex integration processes.
+        sub_title: Senior Software Engineer
+        caption: Oct 2011 - Dec 2013
+        description: | # this will include new lines to allow paragraphs
+          Extensive experience in the field of bank mergers and acquisitions having managed, designed, and implemented complex integration processes.
 
-              Designed and developed a variety of core banking back end processes (cheque clearing workflows, bank branches categorization algorithms, corporate identity verification documents management system), gaining unique domain knowledge of the finance sector.
+          Designed and developed a variety of core banking back end processes (cheque clearing workflows, bank branches categorization algorithms, corporate identity verification documents management system), gaining unique domain knowledge of the finance sector.
 
-              Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
+          Senior member of the team developing the custom CRM solution that fully unified all banking services offered, deployed to all terminals across the organization.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        name: BSc (Hons) Software Engineering
-        dates: 2000 - 2003
-        qualification: University of South Wales (University of Glamorgan), UK
-
-      - layout: top-middle
-        name: MSc Computer Networks Security
-        dates: 2003 - 2004
-        qualification: University of South Wales (University of Glamorgan), UK
+      layout: left
+      title: BSc (Hons) Software Engineering
+      caption: 2000 - 2003
+      sub_title: University of South Wales (University of Glamorgan), UK
 
 # Footer
 footer_show_references: true
