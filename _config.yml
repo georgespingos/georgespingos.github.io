@@ -46,7 +46,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: GVC Group GmbH
+        title: Entain Group GmbH
         sub_title: Senior Software Architect
         link: https://entaingroup.com/
         caption: Jun 2018 - Present
@@ -126,7 +126,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References on request  -  Copyright George Spingos 2021
+references_title: References on request  -  2021
 
 # Build settings
 remote_theme: sproogen/resume-theme
