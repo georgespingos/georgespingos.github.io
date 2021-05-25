@@ -31,7 +31,7 @@ linkedin_username: george-spingos-631590113
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Senior leader with extensive experience managing multinational teams. Focused on [team management](https://observablehq.com/@gnsping/scaling-onboarding-a-quantitative-approach-part-ii), [scaling](https://observablehq.com/@gnsping/scaling-onboarding-quantitative-approach), [recruiting](https://observablehq.com/@gnsping/the-price-of-two-large-pizzas) and developing engineering talent with extensive technical background in software engineering, system design and architecture. 
+  Senior leader with extensive experience managing multinational teams. Focused on [team management](https://observablehq.com/@gnsping/scaling-onboarding-a-quantitative-approach-part-ii), [scaling](https://observablehq.com/@gnsping/scaling-onboarding-quantitative-approach), [recruiting](https://observablehq.com/@gnsping/the-price-of-two-large-pizzas) and developing engineering talent with extensive technical background in software engineering, system design and architecture.
 
 content:
   - title: Work Experience # Title for the section
@@ -118,7 +118,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References on request  -  2021
+references_title: -  2021
 
 # Build settings
 remote_theme: sproogen/resume-theme
