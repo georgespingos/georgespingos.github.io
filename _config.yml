@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: George N. Spingos
-title: Senior Software Architect
+title: Principal Enterprise Architect
 email: george.spingos@gmail.com
 website: https://georgespingos.github.io./
 
@@ -43,19 +43,16 @@ content:
         link: https://entaingroup.com/
         caption: Jun 2018 - Present
         description: | # this will include new lines to allow paragraphs
-          Architecture and design authority on technical product design in the sports betting industry with primary focus on scale, availabilit.
+          A senior member of the enterprise architecture team with a focus on the architectural roadmap, established key enterprise architecture practices for the entire Entain group. Key areas of responsibility include technology strategy, developer experience and operational excellence.
 
-          Senior member of the architects’ team responsible for defining the architectural roadmap, owning the process of researching and analyzing new technologies, capturing and synthesizing information, setting design and best practices guidelines for the entire engineering organization.
+          Senior technical interviewer for all recruitment efforts with a focus on senior hiring, capacity, and growth planning.
 
-          Provide guidance and mentoring to technical leads and engineering managers on how to build, empower and operate teams and software that innovate and continuously add value. 
+          Part of the engineering leadership team leading digital transformation initiatives focusing on cloud patterns, observability, and data streaming. 
 
-          Senior interviewer for all recruitment efforts with a focus on senior hiring, capacity and growth planning.
+          Advisor to senior management on technology strategy, organizational design, and scaling, most recently having introduced and stuffed new teams in data engineering and SRE organizations. 
 
-          Part of the engineering leadership team managing digital transformation initiatives focusing on cloud patterns, observability and data streaming governance and their applications on new products.
+          Provide guidance and mentoring to technical leads and engineering managers on how to build, empower, and operate teams and software that innovate in a multinational environment.
 
-          Advisor to senior management on risks, product strategy, technology and delivery initiatives.
-
-          Establish strategies around internal vs. external technology investments. Introduced new processes, from inception to full adoptions, with targeted impact on delivery speed of the organization and reducing MMTR.
 
           ---
       - layout: left
